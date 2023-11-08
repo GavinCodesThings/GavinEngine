@@ -1,2 +1,2 @@
 # GDA
-GDA is a reverse engineering tool made by Gavin Reid
+GDA (Gavin Disassembler) is a set of tools made to help you analyze software easier.
